@@ -1,0 +1,15 @@
+{
+        "DelayTime":60000,
+        "TargetSize":1024,
+        "SingleSeedMaxSize":200,
+        "TimeLimit":10,
+        "DownloadStation":"",
+        "DownloadStationUserName":"",
+        "DownloadStationUserPassword":"",
+        "ProxyIP":"",
+        "ProxyPort":0,
+        "WebSite":[{"url":"",
+        "host":"",
+        "cookie":""
+        }]
+}
